@@ -4,7 +4,7 @@ title: 첫 포스트
 date: '2021-12-02 00:00:00'
 author: 티케이
 tags: first post
-categories: 머리속
+categories: 머리속 featured
 ---
 
 전공으로 시각디자인을 배우고, 취미로 사진찍다 영상을 배우고, 영상에 빠져 독학으로 PD라는 직업을 갖고, 졸업작품으로 웹디자인을 준비하며 개발에 빠지게 되었다.
