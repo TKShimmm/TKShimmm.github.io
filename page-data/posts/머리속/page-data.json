@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-category-template-js",
-    "path": "/posts/머리속",
-    "result": {"pageContext":{"currentCategory":"머리속","categories":["All","머리속","featured"],"edges":[{"node":{"id":"3a7a29c9-b5ff-57be-a9f3-2d64dae63db4","excerpt":"전공으로 시각디자인을 배우고, 취미로 사진찍다 영상을 배우고, 영상에 빠져 독학으로 PD라는 직업을 갖고, 졸업작품으로 웹디자인을 준비하며 개발에 빠지게 되었다. 나는 누구인가 개발 공부를 하면서 내가 배운것들을 글로 남겨 블로그 포트폴리오 준비를 해야겠다는 마음가짐이 이 블로그를 만들게 되었다.","fields":{"slug":"/gatsby-post-n1/"},"frontmatter":{"categories":"머리속 featured","title":"첫 포스트","date":"December 02, 2021"}},"next":null,"previous":null}]}},
-    "staticQueryHashes": ["1073350324","1956554647","2938748437"]}
