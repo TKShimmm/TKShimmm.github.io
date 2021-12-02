@@ -1,10 +1,10 @@
 ---
 emoji: ☝🏻
 title: 첫 포스트
-date: '2021-12-02 00:00:00'
+date: 'YYYY-MM-DD hh:mm:sec'
 author: 티케이
 tags: first post
-categories: 내 머리속
+categories: 내_머리속
 ---
 
 
