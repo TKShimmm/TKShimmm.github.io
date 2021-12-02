@@ -1,7 +1,7 @@
 ---
 emoji: ☝🏻
 title: 첫 포스트
-date: r format(Sys.Date())
+date: '2021-12-02 00:00:00'
 author: 티케이
 tags: first post
 categories: 내 머리속
