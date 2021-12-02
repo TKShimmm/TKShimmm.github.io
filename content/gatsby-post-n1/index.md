@@ -6,7 +6,6 @@ author: 티케이
 tags: first post
 categories: 내 머리속
 ---
-<br>
 
 
 # 첫 포스트
