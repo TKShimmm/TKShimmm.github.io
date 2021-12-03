@@ -21,7 +21,7 @@ categories: 개발일기 HTML featured
 
 # 추천사이트
 ## **1. w3scools**
-![w3school](./../gatsby-post-n1/1.png)
+![w3school](./../gatsby-coding-post-1/1.png)
 
 링크 [w3school](https://www.w3schools.com/)
 
@@ -32,7 +32,7 @@ categories: 개발일기 HTML featured
 <br>
 
 ## **2. developer.mozilla**
-![developer.mozilla](../gatsby-post-n1/2.png)
+![developer.mozilla](../gatsby-coding-post-1/2.png)
 
 링크 [developer.mozilla](https://developer.mozilla.org)
 
